@@ -1,0 +1,2 @@
+# jest-codecoverage
+junit intsalled
