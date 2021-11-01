@@ -1,0 +1,11 @@
+{
+  "name": "nodes",
+  "version": "1.0.0",
+  "description": "code coverage",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest --config=jestconfig.json"
+  },
+  "author": "Taufique",
+  "license": "ISC"
+}
