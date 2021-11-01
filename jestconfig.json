@@ -1,5 +1,6 @@
 {
     "collectCoverage":true,
+    "testResultsProcessor": "jest-junit",
     "coverageThreshold": {
         "global": {
           "branches": 80,
